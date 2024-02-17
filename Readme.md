@@ -1,7 +1,7 @@
 # Readme
 This app was developed as a learning project for Android. It is developed in Android Studio 2.1<br>
 
-#SetUp
+**#SetUp**
 
 Please utilize the compressed file containing the configured files for reference.
 
